@@ -1,4 +1,4 @@
-# Neos-Plugins<!-- omit in toc -->
+# Neos-Mods
 
 NOTE; When using this template, change the LICENSE to your own and remove this disclaimer, as well as most likely rename the subfolder. To add more projects, just copy a subfolder and rename it.
 
@@ -6,7 +6,7 @@ This repository contains mods for [NeosVR](https://store.steampowered.com/app/74
 
 Feel free to join the [Neos Modding Discord server](https://discord.gg/2WR6rGVzht) if you need more help after reading [NeosModLoader's README](https://github.com/zkxs/NeosModLoader/blob/master/README.md#installation).
 
-## Mod list<!-- omit in toc -->
+## Mod list
 
 If you want the feature enough to get the mod for it, you should probably also go give a thumbs up on the issue tracker if there is one linked.
 
@@ -21,7 +21,7 @@ Does X things.
 
 Does Y things.
 
-## Building<!-- omit in toc -->
+## Building<
 
 Ensure that the required DLL's (listed in the `Directory.Build.props` file and in the individual `.csproj` files) can be found from standard installation paths (check `Directory.Build.props`).
 Then use the `dotnet build` command to build.
